@@ -14,10 +14,11 @@
 
 <a href="#"><img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"></a>
 <a href="#"><img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"></a>
-<a href="#"><img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"></a>
-<a href="#"><img alt="java" src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png" width="40" height="40" ></a>
-<a href="#"><img alt="mysql" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" width="40" height="40"></a>
-<a href="#"><img alt="git" src="https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg?short_path=740769c" width="40" height="40"></a>
+<a href="#"><img alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"></a>
+<a href="#"><img alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" ></a>
+<a href="#"><img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"></a>
+<a href="#"><img alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"></a>
+<a href="#"><img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"></a>
 
 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
