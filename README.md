@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
-<h1> 👨‍💻 Hi, I'm Gabriel 👋 </h1>
+<h1 align="center"> 👨‍💻 Hi, I'm Gabriel 👋 </h1>
 
-<h >💡 a beginner programmer, focused and interested in learning. 📚💻</h3>
+<h3 align="center">💡 a beginner programmer, focused and interested in learning. 📚💻</h3>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gbcayres&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcayres&layout=compact&theme=radical" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gbcayres&theme=radical&mode=weekly" />
+<img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcayres&layout=compact&theme=radical" />
  </div>
 
 
