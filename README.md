@@ -28,8 +28,6 @@
 <a href="https://www.linkedin.com/in/gabriel-cayres-b16057294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-<div>
- <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" >
-</div>
+![GIF Animado](https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
