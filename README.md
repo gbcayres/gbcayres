@@ -2,7 +2,7 @@
 <h1 align="center"> 👨‍💻 Hi, I'm Gabriel 👋 </h1>
 
 <h3 align="center">💡 a beginner programmer, focused and interested in learning. 📚💻</h3>
-<h2 align="center"> < / >🎓 Student of <em>System Analysis and Development</em> at Estácio de Sá University 🏫📜✨ </h2>
+<h2 align="center"> < / >🎓 Student of <em>System Analysis and Development</em> at Estácio de Sá University 🏫📜 </h2>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gbcayres&theme=radical&mode=weekly" />
