@@ -19,6 +19,7 @@
 <a href="#"><img alt="php" src="https://github.com/vorillaz/devicons/blob/master/!SVG/php.svg" width="50" height="50"></a>
 <a href="#"><img alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" ></a>
 <a href="#"><img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"></a>
+<a href="#"><img alt="lua" src="https://github.com/manuelbieh/logo-file-icons/blob/master/icons/lua.svg" width="50" height="50"></a>
 <a href="#"><img alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"></a>
 <a href="#"><img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"></a>
 
