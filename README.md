@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 <h1 align="center"> 👨‍💻 Hi, I'm Gabriel 👋 </h1>
 
-<h3 align="center">💡 a beginner programmer, focused and interested in learning. 📚💻</h3>
+<h3 align="center">💡 focused and interested in learning. 📚💻</h3>
 <h2 align="center"> < / >🎓 <em>System Analysis and Development</em> student at Estácio de Sá University 🏫📜 </h2>
 
 <div  align="center" style="margin-bottom:100px">
