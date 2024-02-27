@@ -15,7 +15,7 @@
 
 <a href="#"><img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"></a>
 <a href="#"><img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"></a>
-<a href="https://github.com/gbcayres/Movie-Finder-App"><img alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"></a>
+<a href="https://github.com/gbcayres/Movie-Finder-App" target="_blank"><img alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"></a>
 <a href="#"><img alt="php" src="https://github.com/vorillaz/devicons/blob/master/!SVG/php.svg" width="50" height="50"></a>
 <a href="#"><img alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" ></a>
 <a href="#"><img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"></a>
