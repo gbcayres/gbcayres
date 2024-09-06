@@ -9,23 +9,20 @@
 <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcayres&layout=compact&theme=radical" />
 </div>
 
-# My main skills
+# Web
 <a href="#"><img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"></a>
 <a href="#"><img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"></a>
 <a href="https://github.com/gbcayres/Movie-Finder-App"><img alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"></a>
+<a href="#"><img alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"></a>
 
-# Learning
-<a href="#"><img alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"></a>
-<a href="#"><img alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="45" height="50"></a>
-
-# Other important competences
-<a href="https://github.com/gbcayres/Sistema-de-login-em-php"><img alt="php" src="https://github.com/vorillaz/devicons/blob/master/!SVG/php.svg" width="50" height="50"></a>
+# Other Competences
+<a href="https://github.com/gbcayres/Algorithms"><img alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" height="45"></a>
 <a href="https://github.com/gbcayres/Teste-GUI-em-JAVA"><img alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" ></a>
+<a href="https://github.com/gbcayres/Sistema-de-login-em-php"><img alt="php" src="https://github.com/vorillaz/devicons/blob/master/!SVG/php.svg" width="50" height="50"></a>
 <a href="#"><img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"></a>
 <a href="#"><img alt="lua" src="https://github.com/manuelbieh/logo-file-icons/blob/master/icons/lua.svg" width="50" height="50"></a>
 <a href="#"><img alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"></a>
 <a href="#"><img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"></a>
-
 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
 
