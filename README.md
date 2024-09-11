@@ -42,5 +42,3 @@
 <img alt="gif" src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="400" autoplay>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-![snake gif](https://github.com/gbcayres/gbcayres/blob/output/github-contribution-grid-snake.gif)
