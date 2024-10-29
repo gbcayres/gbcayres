@@ -9,29 +9,21 @@
 <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcayres&layout=compact&&hide_title=true&theme=radical" />
 </div>
 
-# Web
+# Main Skills
 <a href="#"><img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"></a>
 <a href="#"><img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"></a>
 <a href="https://github.com/gbcayres/Movie-Finder-App"><img alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" height="40"></a>
-<a href="#"><img alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"></a>
+<a href="https://github.com/gbcayres/Teste-GUI-em-JAVA"><img alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" ></a>
 
 # Other Competences
 <a href="https://github.com/gbcayres/Algorithms"><img alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" height="45"></a>
-<a href="https://github.com/gbcayres/Teste-GUI-em-JAVA"><img alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" ></a>
 <a href="#"><img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"></a>
 <a href="https://github.com/gbcayres/Sistema-de-login-em-php"><img alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"></a>
 <a href="#"><img alt="lua" src="https://github.com/manuelbieh/logo-file-icons/blob/master/icons/lua.svg" width="50" height="50"></a>
 <a href="#"><img alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"></a>
 <a href="#"><img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"></a>
-
-# Tools
-<a href="#"><img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"></a>
-<a href="#"><img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="45" ></a>
-<a href="#"><img alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"></a>
-
-
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
-
+<a href="#"><img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="45" ></a>
+<a href="#"><img alt="insomnia" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/insomnia/insomnia-original.svg" width="50" height="45" ></a>
 
 ## Contact:
 
@@ -39,6 +31,9 @@
 <a href = "mailto:gabriel.cayres.r@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
 
-<img alt="gif" src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="400" autoplay>
+<div>
+<img alt="gif" src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="600" autoplay>
+<img alt="gif" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="370" autoplay>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
