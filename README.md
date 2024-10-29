@@ -31,9 +31,8 @@
 <a href = "mailto:gabriel.cayres.r@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
 
-<div>
-<img alt="gif" src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="600" autoplay>
-<img alt="gif" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="370" autoplay>
+<div align="center">
+<img alt="gif" src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="900" autoplay>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
