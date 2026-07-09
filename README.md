@@ -1,13 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 <h1 align="center"> 👨‍💻 Hi, I'm Gabriel 👋 </h1>
-
 <h3 align="center">💡 focused and interested in learning. 📚💻</h3>
 <h2 align="center"> < / >🎓 <em>System Analysis and Development</em> student 🏫📜 </h2>
-
-<div  align="center" style="margin:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gbcayres&theme=radical&mode=weekly" />
-<img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcayres&layout=compact&&hide_title=true&theme=radical" />
-</div>
 
 # Main Skills
 <a href="#"><img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"></a>
